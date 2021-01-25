@@ -4,3 +4,10 @@ I'm 15yo and I'm interested in Web & Software development. I'll list the program
 
 I'm currently working on an open source project called Survive Time [(Click me)](https://github.com/emmett-white/survive-time). 
 If you like my codes, feel free to follow me :D.
+
+# Discord
+## My discord
+Emmett#3248
+
+## Survive Time discord
+https://discord.gg/3vux22UJG5
