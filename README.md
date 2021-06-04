@@ -13,3 +13,13 @@ Emmett#3248
 https://discord.gg/3vux22UJG5
 ## gta-dm discord
 https://discord.gg/fDaKTX7vbR
+
+<h2>Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emmett-white&show_icons=true&theme=radical">
+  <br>
+  <hr>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmett-white&langs_count=8"></p>
