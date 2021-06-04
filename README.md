@@ -22,4 +22,4 @@ https://discord.gg/fDaKTX7vbR
   <hr>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmett-white&langs_count=8"></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmett-white&langs_count=8&theme=radical"></p>
