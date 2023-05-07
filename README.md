@@ -3,7 +3,7 @@ I'm 17yo and I'm interested in Web & Software development.
 If you like my codes, feel free to follow me.
 
 ## Discord
-fajnydzieciak#3248
+emmett#0324
 
 <!--<h2>Stats</h2>
 
